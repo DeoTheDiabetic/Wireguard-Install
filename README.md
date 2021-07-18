@@ -7,6 +7,6 @@ Installation
 
 Run the script and follow the assistant:
 
-wget INSERT URL -O wireguard-install.sh && bash wireguard-install.sh
+sudo wget https://github.com/DeoTheDiabetic/Wireguard-Install/blob/main/wireguard-install.sh -O wireguard-install.sh && bash wireguard-install.sh
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
